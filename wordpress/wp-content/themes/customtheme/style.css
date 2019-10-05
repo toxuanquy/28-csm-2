@@ -1,0 +1,62 @@
+/*
+ * |---:[Đoạn này sẽ chứa các đoạn giới thiệu và thông tin về theme, 
+ như tên theme (Theme Name), 
+ tên tác giả (Theme Author),,...]:---|
+ 
+ * Theme Name: Nhom H_CMS
+ * Description: Custom theme
+ * Version: 1.0
+ * Theme Author: Group H
+ * Tags: starter theme, framework theme, two-columns, customize
+ */ 
+body {
+   font-family: Arial, sans-serif;
+   font-size: 16px;
+   color: #545454;
+}
+
+a:link, a:visited {
+   color: #4285f4;
+}
+p {
+   line-height: 1.7em;
+}
+div.container {
+   max-width: 960px;
+   margin: 0 auto;
+}
+article.post {
+   border-bottom: 4px dashed #ecf0f1;
+}
+article.post:last-of-type {
+   border-bottom: none;
+}
+.site-header {
+   border-bottom: 3px solid #ecf0f1;
+}
+.site-footer {
+   border-top: 3px solid #ecf0f1;
+}
+.page-footer{
+   background: #2196F3;
+   margin-top: 50px;
+   
+}
+.text-upper{
+   color: #ecf0f1;
+}
+.text-upper h3{
+   color: #000000;
+}
+.list-unstyled a{
+   color: #ecf0f1;
+   list-style: none;
+   text-decoration: none;  
+}
+.list-unstyled li{
+   padding-left: 10px;
+}
+.copyright{
+   text-align: center;
+   color: #fff;
+}

@@ -14,7 +14,7 @@ body {
    font-size: 16px;
    color: #545454;
 }
-
+ 
 a:link, a:visited {
    color: #4285f4;
 }
@@ -42,21 +42,9 @@ article.post:last-of-type {
    margin-top: 50px;
    
 }
-.text-upper{
-   color: #ecf0f1;
+.post-large{
+    width: 120px;
+   height: auto;
 }
-.text-upper h3{
-   color: #000000;
-}
-.list-unstyled a{
-   color: #ecf0f1;
-   list-style: none;
-   text-decoration: none;  
-}
-.list-unstyled li{
-   padding-left: 10px;
-}
-.copyright{
-   text-align: center;
-   color: #fff;
-}
+
+

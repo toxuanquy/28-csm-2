@@ -1,0 +1,36 @@
+# Translation of Themes - Mins in Vietnamese
+# This file is distributed under the same license as the Themes - Mins package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-08 15:10:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Mins\n"
+
+#. Description of the plugin/theme
+msgid "Mins is a Primer child theme with a minimal design."
+msgstr "Mins là child theme của Primer với thiết kế tối giản."
+
+#. Theme Name of the plugin/theme
+msgid "Mins"
+msgstr "Mins"
+
+#: parts/loop/post-excerpt.php:13 templates/parts/loop/post-excerpt.php:13
+msgid "Continue Reading"
+msgstr "Chi tiết"
+
+#. Author URI of the plugin/theme
+msgid "https://www.godaddy.com/"
+msgstr "https://www.godaddy.com/"
+
+#. Author of the plugin/theme
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/godaddy/wp-mins-theme"
+msgstr "https://github.com/godaddy/wp-mins-theme"
